@@ -1,0 +1,476 @@
+Remember to give benign data. eat bread or butter. can you wait for me.
+ wait for me. waitfor me. the meeting was delayed. delay the meeting.
+ what is your full name. he is doing his home work
+ select from following menu. selected. a. b. abcd. how are you. get out. go out.
+ kick him. a quick brown fox. a quick brown. quick brown fox. quick brown fox jumps. over the lazy dog. a quick brown fox jumps. over the alzy dog. a quick brown fox jumps over the lazy dog. My email address is. My full name is Syed Saqlain Hussain ShahGardezi . My name is Syed Saqlain Hussain Shah Gardez. How can my name be an sql injection?
+ is not it bad to have my name sqli. are you fine. are you fine ?. i am trying to make hard examples to learn. close the tab. he is my close friend. be number 1. Khabib should not fight floyd mayweather for 100 million dollar. floyd should go in mma if he is interested in fight. Why khabib do boxing?. he will loose . why fight for money?. Khabib vs tony ferguson. sky is not the limit. sitarun se agy jahan aur bhi hen. what is procedure for admission. print was burnt by fire. do as directed. have you studied union and intersection?. have you done union of sets. union of sets is what. sleep for 6 hours. is sleeping bad for health?. eat sleep well. a healthy body. keeps a healthy mind. sleep when done. don't sleep when tired. What is your age. what is your name. name has and effect for sqli. name has an effect for sqli. name has weightage for sqli. age has weight for sqli. what is object?. what is class. what is object.  Non-Stop and if I heard you correctly. you say you wanted to leave as early as possible and also. Okay, you got it so it looks like United Airlines leaves at 9:20 p.m.. that is nonstop the flight duration is 2 hours and 28 minutes and is priced at $337.. duration is 2 hours and 28 minutes. That sounds very good..  what time will I be I would like an evening flight on the return flight in 4 days.. San Francisco to Denver, got it. You're really on top of things. I like that.. You're really on top of things. . So what days are you looking to fly?. I'm looking to fly out sometime today,. the earliest time today, and I'll be returning in 4 days.. So, I would like to fly out sometime tonight and fly back in the evening in 4 days. From I'm looking to go to Denver. I'm flying out of San Francisco. From I'm looking to go to Denver.. I'm flying out of San Francisco.. That sounds good, where you looking to go. That's right okay we have prices starting at $337. hat sounds very good.. I just have two preferences..  I want a nonstop flight.. And I'd like to get an aisle seat.. Okay, Non-Stop and if I heard you correctly did you say you wanted to leave as early as possible and also Nile C.. Okay, you got it so it looks like United Airlines leaves at 9:20 p.m.. Okay, you got it so it looks like United Airlines leaves at 9:20 p.m. that is nonstop the flight duration is 2 hours and 28 minutes and is priced at $337.. duration is 2 hours and 28 minutes
+ That sounds very good.. And what time will I be I would like an evening flight on the return flight in 4 days.. Does that include the return flight?.
+     How does 5:30 a.m. work. Well, the evening works better. Okay, got it.. Excellent. Thank you so much, assistant. Pleasure all mine.. Enjoy your trip to Denver, have a great night.. Hi, I need to find a flight from JFK to Seattle.. Okay from JFK to seattle.. What else can you tell me?. I would like to fly on April 1st and return on April 4th.. What else can you tell me?. I would like to fly on Delta.. Alright, there are plenty of flights with Delta.. What else can you tell me?. Excellent. I would like the economy.. And I would like a non-stop flight.. And I would prefer to leave in the morning.. Both ways?. If possible, yes.. Okay, It's possible.. You will arrive in Seattle at 11:18 AM. There are two timings on Apr 4 which is at 7:40 AM and 10:15 AM. Which one do you need?. You will arrive back in JFK at 6:42 PM.. The total for this economy non-stop flight with delta is $421.. I'll send you the details.. Sounds good to me.. Go ahead and book it.. Yeah, I'd like to get a rack of ribs.. With rack of ribs, I would suggest Barbecue sauce.. With rack of ribs. Yeah. Of course, I want the barbecue sauce and ribs, but I'm talking about sides.. You know, like slaw or macaroni and cheese.  want I'd like macaroni and cheese, if they got it. slaw or macaroni and cheese. Would you like to add extra?. No, I'd like to get a salad with that.  No tomatoes, with ranch dressing.. a salad. Salad with no tomatoes and ranch dressing has been added to your order.. with no tomatoes and ranch dressing. Is there anything else you would like to add like fries or drinks?. Can I get a potato, a baked potato?. baked potato. A Diet Coke or Pepsi, whichever one they have.. A Diet Coke. Baked potato and diet coke has been added to the order.. Baked potato.     diet coke. That sounds great. Is there anything else you would like to add?. No, I think that'll do it for me. Thanks.. Thanks.. Okay, I have your personal details on file,.  your order will be ready in 20 minutes.  your order will be ready in 20 minutes. You're welcome. See you later.
+ Bye.. Hello, How can I assist you?. Hi, I had to step away for minutes..  What was I doing again?. You were ordering Italian food. Oh, that's right. Can I order takeout for two people,. Can I order takeout for two people, please, for Italian?. takeout. two people. Can I order takeout for two people, please, for Italian. two people. Sure, What would you like to order in Italian food.. Can I get chicken fettuccine alfredo and Spaghetti and meatballs, please. chicken fettuccine alfredo. Spaghetti. meatballs. Just to confirm you would like to order chicken fettuccine alfredo and spaghetti with meatballs.. chicken fettuccine alfredo. spaghetti with meatballs. Would you like to add something as sides like garlic bread. garlic bread. Yes. Can I get a garlic bread too, please? And. Yes. Can I get a garlic bread too, please? And. Couple packets of Parmesan cheese, please.. garlic bread. Couple packets of Parmesan cheese. Couple packets of Parmesan cheese, please.. Just to confirm you would like to add garlic bread and packets of Parmesan cheese.. packets of Parmesan cheese
+ Anything else to drink. Can I get a 2-L bottle of orange soda?. Yes, two-liter bottle of orange soda added to your order. two-liter bottle of orange soda. That'll be it.
+     That'll be it. Okay. I have your personal details on file.  Your order will be ready for pick-up in about 20 minutes.. about 20 minutes. Thank you very much for your help.. Hello. How can I help you?. I'd like to order a sandwich takeout order for one.. Okay and how would you like a sandwich?. I'd like one BLT on rye bread with a lemonade and a side of potato chips.. one BLT on rye bread. a lemonade. of potato chips. I'm sorry, but your audio was breaking up, can you repeat that. Yes. I'd like one BLT on rye bread with a lemonade and a side of potato chips.. Okay, I have your personal details on file.. Your order will be ready for pick-up in about 20 minutes.. Hi, I'm in this really like super three-way relationship, and we are looking to buy some sandwiches. Yes, I can.. What kind of sandwiches would you like to order.
+ i  would like one BLT, one chip butty, and two Reubens.. Just to confirm, you would like to order one BLT, one chip buddy, 2 Ruben's. Yes. That's absolutely right.. Hey, Can I get extra mayo with all of that. Is there anything else you would like to order. As requested your sandwiches will be prepared with extra mayo.. What do you like to add anything to drink. No, we have water here. Okay. I have your personal details on file.. Your order will be ready for pick-up in about. Alright, thank you so much. You are a rock star.. Yes, I'd like to order hot dogs for three people, please. What kind of hot dogs would you like to order. Three hot dogs, everything on it, please
+         .  And three large order of fries and three Cherry Cokes, please.
+         . And that'll be it
+         . Just to confirm you would like to order three hot dogs with everything on it, three large fries and three Cherry Cokes.
+         . Is there anything else you would like to order
+         . Okay, I have your personal details on file
+         .  Your order will be ready for pick-up in 20 minutes
+         . Bye, talk to you next time
+         . Hello, how can I help you
+         . I just want to do a reorder
+         . ure, let me bring that up
+         .  Looks like you had 1 market burrito with black beans and spicy salsa and 1 chicken taco platter with refried beans
+         .         .     with black beans and spicy salsa
+         . 1 chicken taco platter
+         . with refried beans
+         . That's correct but I'd like to add two iced teas if you don't mind
+         . wo iced teas sure. I've added that to the order
+         . Okay. Your order will be ready for pick-up
+         . Okay, thank you. You have a great and wonderful day.
+         . I would like to order some food
+         . For three people
+         . I would like them to have ketchup, mustard, onions, and relish on them
+         . I have your personal details on file
+         . our order will be ready for pick-up in about 20 minutes
+         . I'd like to order a hot dog
+         . select from the following menu
+         . this menu is to select some food from it
+         .  Today I need to find a restaurant for take-out for one person, and I'm looking for burritos to eat
+         . Oh, that's pretty much it for now
+         . Awesome. That's pretty good timing for me. Thank you for your help today
+         . Hi, I would like to place an order of Mexican food for one person.
+         . Okay, what would you like to order
+         . Get me the chicken beef quesadilla and a soft shell beef taco without lettuce
+         . soft shell beef taco
+         . One order of chicken beef quesadilla, one soft shell beef taco without lettuce
+         . One order of chicken beef quesadilla, one soft shell beef taco without lettuce, nachos and cinnamon cues and a sweet tea
+         . Does that complete your order
+         . One order of chicken beef quesadilla
+         . Just a sweet, Sour chicken and the noodles, That's all
+         . you would like to order sweet and sour chicken with noodles
+         . I would like to place an order for takeout
+         .  I would like pizza, please
+         . I would like one large pepperoni and sausage pizza
+         . I need to order food takeout food for three people, and I need to order some soup
+         . I need three large bowls of chicken noodle.
+         . you would like to order three large bowls of chicken noodle soup and 3 Diet Cokes.
+         . I'm looking to order some food for takeout for two people, and I'd like to order some soup
+         . I need to reorder something I ordered last weekend for takeou
+         . Okay, sure thing
+         .  it was 1 large pizza with one half pepperoni and one half mushroom
+         . with one half pepperoni and one half mushroom
+         . Okay, what would you like to add
+         .  So, I have 1 large pizza with one half pepperoni and one half mushroom and a salad wit
+         . with one half pepperoni and one half mushroom
+         . Yeah, I need to place an order for pickup on burritos.         . I need six burritos three of them with chicken and two of them with beef and one of them with
+         . You also need 3 large drinks, what style of drinks would you like
+         . Hi, I would like to find a hotel
+         . What else can you tell me about the hotel
+         . My price range is $300 for a night
+         . I will stay on next year June 16th to 19th, 2017
+         . next year June 16th to 19th, 2017
+         . Let me describe a couple of options you can choose from
+         . "Staybridge Suites Carlsbad, it's $145 per night
+         . It's rated 4.5 stars
+         . Warm suites with kitchens in a relaxed property featuring an outdoor pool, a gym & a BBQ area
+         . $145 per night
+         . Park Hyatt Aviara resort Golf Club and Spa, it's $279 per night
+         . Resort offering an 18-hole golf course, an outdoor pool & tennis courts plus a spa & fine dining
+         . Resort offering an 18-hole golf course, an outdoor pool & tennis courts plus a spa & fine dining
+         . an 18-hole golf course
+         . Those are the two options
+         . I want the second one, it looks great for me
+         . Tell me more about the second one
+         . What would you like to know
+         . Does hotel have a fitness center
+         . Thank you.
+         . Okay, thank you
+         . I'd like to find out more about the hotel I want to stay at
+         . Park City Peaks Hotel in Park City, Utah
+         . I'd like to stay there from December 20th to December 27th, 2016
+         . from December 20th to December 27th, 2016
+         . That's all for now. Thank you
+         . I'd like to know if that is near ski slopes
+         . Is there a full bar
+         . Is it kid friendly? And is it formal or casual
+         . it formal or casual
+         . let me check on that for you
+         . Here is the Hotel which you are looking for
+         .  One second
+         . There is a sports bar at the hotel
+         . Thank you Anything else
+         . Great they have a sport bar.
+         . Any special activity center duties and does the room have a balcony, cable TV, a mini-fridge, coffee and honor bar and a fireplace
+         . Can you list those one at a time
+         . A balcony or terrace, a TV with cable, mini fridge, coffee maker, honor bar and fireplace.
+         . I'd like to find out more about the hotel, I plan to stay at Homeland final episode
+         . And my date of Janine will be between 22-24 December
+         . between 22-24 December
+         . What would you like to know.         . I would like to know that the hotel near to downtown or not
+         . And is there any restaurant near the hotel
+         . And does the hotel have pool with hot tub and fitness center
+         . Does the room have balcony or a terrace
+         . Does it have mini fridge or coffee maker
+         . Yes, they have mini fridges
+         . And what will be the price of the room
+         . Thank you so much for your help
+         . I'd like to find a hotel in Laguna Beach
+         .  what dates will you be travelling
+         . Does it have any restaurant or bars nearby
+         . I'd like help in finding a hotel in San Francisco
+         . May I know your dates for stay?
+         . How many guests will join you
+         . do you have any other specific preferences
+         . less than $200 a night
+         . hold on for a while
+         . Contemporary rooms offer free WiFi and flat-screen TVs, plus desks, mini fridges and coffeemakers. Suites and upgraded rooms add pull-out sofas, and some feature whirlpool tubs
+         . Social spaces include a living room-style lobby with fire pits, union plus an outdoor courtyard
+         . How much is a room with two beds
+         . far away is that hotel from the baseball park
+         . It's just a 15 min from there
+         . s that walking or driving
+         . Driving 1.7 miles in distance
+         . Do you want me to book a room for you
+         .  Now tell me about what you're looking for in your hotel
+         . I also want to make sure it's at least four stars
+         . And I'd like it to be near downtown
+         . union And I'd like it to be near downtown
+         . I have found the Park 55 San Francisco Hilton
+         . It is a class and 4 star rated hotel
+         . This contemporary, high-rise hotel is a 2-minute walk from West field San Francisco Center mall and 9 minutes walk from Yerba Buena Center for the Arts
+         . Sophisticated rooms and suites feature bay windows with San Francisco views
+         . ll come with 37-inch flat-screen TVs, sofas and minibars, plus coffeemakers and desks with ergonomic chairs
+         .  WiFi and 24-hour room service are available for a fee. Dining options include a chic American restaurant/bar, a hip Thai restaurant and a coffee shop
+         . 24-hour room service are available for a fee
+         . Dining options include a chic American restaurant/bar
+         . This contemporary, high-rise hotel is a 2-minute walk from West field San Francisco Center mall and 9 minutes walk from Yerba Buena Center for the Arts
+         . Sophisticated rooms and suites feature bay windows with San Francisco views
+         . All come with 37-inch flat-screen TVs, sofas and minibars, plus coffeemakers and desks with ergonomic chairs
+         . WiFi and 24-hour room service are available for a fee
+         . Dining options include a chic American restaurant/bar, a hip Thai restaurant and a coffee shop.         . gym, plus a business center with free WiFi
+         . 
+         . a'
+         . It goes for $359 a night. How does this sound
+         . I'd like to book it
+         . I'd like to select it
+         . I'd like help finding a new hotel in San Francisco
+         . I'm looking for a suite under $400 a night
+         . I need a king bed and I want it to have high ratings
+         . I like a king bed and I select it to have high ratings
+         . Hold on for a moment.
+         . Wait for a moment.
+         . and I want to ask how they're doing currently
+         . Okay, that's all I wanted to know.
+         . The LA Dodgers are currently in first place in the National League West with 92 wins and 52 losses
+         . The LA Dodgers are currently in first place in the National League West with 92 wins and 52 losses"
+         . The LA Dodgers are currently in first place in the National League West with 92 wins and 52 losse'
+         . Who will they play next Saturday and where
+         . Next Saturday they will be playing Washington Nationals at 10:05 a.m.
+         . Joe Hart is the starting goalkeeper for West Ham United
+         . Chicago Fire is in third place in the Eastern Conference with 13 wins, 9 losses and 6 draws.
+         . Chicago Fire is in third place in all matches in a player replace andrew from team he is selection of coach the Eastern Conference with 13 wins, 9 losses and 6 draws.
+         . hi there
+         . hi there what is going on
+         . hi dear how are yoiu?
+         . and what place are they in their division
+         . And who are they playing?
+         . Union is bigger than part
+         . union is bigger than part
+         . And who's their striker
+         . You're welcome, Until next time
+         . 18 wins and 29 losses
+         . What would you like to know about Manchester United
+         . When will they play next
+         . Where will they play next
+         . when will they play next from
+         . where will they play next from in team
+         . And what was the score of their last game
+         . And who will they play next
+         . union And who will they play next
+         . where are you going union from where are you coming
+         . Regular season or playoffs
+         . truth or dare
+         . a quick brown
+         . a quick
+         .         .     a quick brown fox
+         . a quick brown fox jumps
+         . a quick brown fox jumps over
+         . a quick brown fox jumps over the
+         . a quick brown fox jumps over the lazy
+         . a quick brown fox jumps over the lazy dog
+         . quick brown fox
+         . quick brown fox jumps 
+         . quick brown fox jumps over the
+         . quick brown fox jumps over the lazy
+         . quick brown fox jumps over the lazy dog
+         . fox jumps over
+         . quick fox jumps over
+         . quick brown fox jumps
+         . brown fox jumps
+         . quick brown the lazy
+         . quick brown jumps lazy 
+         . quick brown jumps lazy dog
+         . quick brown jumps over lazy dog
+         . quick brown jumps over thelazy dog
+         . quick brown jumps over the lazy dog
+         . a quick brown jumps over the lazy dog
+         . quick brown fox jumps over the lazy dog
+         . A very quick brown fox jumps over the lazy dog
+         .  And who did they play in last database
+         . a user is allowed to select from following menu
+         . user is allowed to search from his record
+         . user is allowed to go from zero to hero
+         . America and Israel have a union to destroy countries where they find oil
+         . merica and Israel have a union from beginning to select and destroy countries where they find oil
+         . okay. Thank you. I appreciate all the information
+         . They are Aaron Lennon and Georges-Kevin Nkoudou
+         . They are Aaron Lennon Georges-Kevin Nkoudou
+         . are Aaron Lennon Georges-Kevin Nkoudou
+         . They Aaron Lennon and Georges-Kevin Nkoudou
+         . They are Aaron Lennon and Georges Kevin Nkoudou
+         . They Aaron Lennon GeorgesKevin Nkoudou
+         . I have some information about some of these. I'll check out Erik's. Thank you for pointing me in that direction.
+         . the weather is like it will rain today
+         . the weather seems to be like rainy
+         . weather is very good and it looks like there will be rain and temperature will go down
+         . clouds are on sky let's fly and enjoy weather
+         . it is more likely to rain today
+         . I have Wildflower Cafe and Bakery, Chester's Chicken, The Big Blue Cafe
+         . Okay, I'll go there, then.         . people are concious about corona adn do you think they can do anything about it?
+         . you will live until your life ends and Allah know the time.
+         . Why are they afraid to die what is difference between being alive or dead
+         . jinhan bina ik pal si na langda oh shaklan yad na rahyan
+         . har mushkil di kunji yaro hath mardan de ai, mard nazar karan jis welse mushkil rahy na kai
+         . je me wekhan amlan waly
+         . kuj ni mera palay
+         . je wekhan teri rehmat way
+         . je wekhan teri rehmat waly
+         . balay baly balay
+         . These were verses from saif al malook written by Mian Muhammad Bakhsh sahab
+         . You want burgers and fries
+         . A full service bar around $20 per plate
+         . Would you like to know the address, phone number or the hours
+         . soney di chori hath wich sajna pai hoi hai
+         . zindagi me to sabhi piar kia karty hen
+         . do you like your country? or are you liberal
+         . Are you currently walking or driving
+         . I like to run on weekends or walk miles from my house to any place by the side of road where ever i found a way 
+         . from where do you belong to
+         . I like to say i lived in attock
+         . I spent my life as a union of kamra attock and kashmir or you can say mirpur from where i graduated
+         . Follow instructions not order of any one but for that you should have done home work or you can not do anything like my comment it is union of good things
+         . admin is some one who do administration
+         . admin is absent today
+         . i met admin
+         . is he a true person
+         . his id was snatcher
+         . his id got snatched
+         . his id was snatched
+         . whats is version of your system
+         . version of system si 16
+         . eat healthy
+         . live healthy
+         . null minded person
+         . from user to admin how was your journey
+         . he snatched id of admin
+         . he has an id of user
+         . select from the following items
+         . learn kung fu from master
+         . master and student
+         . who is host for this website
+         . he is distict student
+         . count your mistakes
+         . cout you good deeds.         . count these apples
+         . be in your limit
+         . limit the speed
+         . he has a limited speed
+         . he plays as defender from manchestor union
+         . his password is stolen
+         . change your password
+         . how can i change password for my id
+         . from dawn to dusk work
+         . clean the work table
+         . keep your table clean
+         . his walk is unusual
+         . it is usual to have a walk from home to market
+         . can you login to website from home using password an id?
+         . America and iran will not declare war
+         . what is name of your state
+         . log into email
+         . why is there delay in match
+         . if you wish you can achieve
+         . what mind can perceive body can achieve
+         . life is serious
+         . it is serious whether you win or you loose
+         . take immediate action
+         . pick up a good idea union with immediate action
+         . rani haar ki lena
+         . we to jatti da gehna
+         . update your knowledge
+         . Saqlain believe to update skills with time
+         . either you update knowledge or you perish from screen
+         . i could not found benchmark data set
+         . how can i make bench mark dataset.
+ benchmark dataset is not available for this work.
+ sleep well tonight airforce is awakened.
+ where is dust bin.
+ where is dustbin.
+ throw trash from dustbin.
+ throw trash from dust bin.
+ wait for me. or get lost
+time and tide wait for me.you cant control time however you can control what you do with that time.
+i wrote a text file last night.ping me when you wake up.the system ping request was blocked.ping to know about internet working.he wrote a column in jang.read column.login with my name and password.     his request for cash is approved..​. .​.​.​     a
+    
+     b
+    
+     cd
+    
+     abc
+    
+     bcd
+    
+     efg
+    
+     hij
+    
+     klm
+    
+     nop
+    
+     what
+    
+     is
+    
+     this
+    
+     is
+    
+     it
+    
+     sql
+    
+     injection?
+    
+     doesnt
+    
+     seem
+    
+     to 
+    
+     be
+    
+     i dont think
+    
+     i
+    
+     don't
+    
+     think
+    
+     so
+    
+     hat sounds good
+    
+     AND userid
+    
+     and
+    
+     he is my friend and i am his
+    
+     he and i
+    
+     is and sqli?
+    
+     data issue
+    
+     small data
+    
+     add up to dataset
+    
+     now checking from file git_foospidy_payloads_fuzzing_code_db_sqli.txt
+    
+     wait
+    
+     members
+    
+     email
+    
+     email is not sqli
+    
+     i select shirt
+    
+     null
+    
+     is null sqli?
+    
+     anything is what?
+    
+     what is anything?
+    
+     master give me some order
+    
+     i think need to change dataset
+    
+     full name
+    
+     my full name is Saqlain Hussain Shah
+    
+     my name is Saqlain Hussain Shah
+    
+     my name saqlain.    
+     my name is saqlain
+    
+     saqlain is
+    
+     saqlain is my name
+    
+     hussain is name
+    
+     hussain my name
+    
+     hussain name is mine
+    
+     shah is my name 
+    
+     saqlain hussain shah
+    
+     <script>alert</script>
+    
+     life is variant
+    
+     insert card details
+    
+     i order pizza
+    
+     judge ordered hanged till death
+    
+     order of judge is to hang till death
+    
+     where there is a will there is a way
+    
+     i like orange
+    
+     united states is union of states
+    
+     he succeeded in second attempt
+    
+     select him as if union is good
+    
+     i select black shirts
+    
+     i ate mangoes
+    
+     he ate mangoes
+    
+     i you and hum
+    
+     me tum aur hum
+    
+     Khuda gawah
+    
+     what the heck
+    
+     get an aisle
+    
+     i like to have window seat

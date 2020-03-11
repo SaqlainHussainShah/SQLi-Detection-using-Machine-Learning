@@ -14,10 +14,11 @@ import keras
 from keras.models import load_model
 import pickle
 
-mymodel = load_model('my_model_additional_data.h5')
-myvectorizer = pickle.load(open("vectorizer_additional_data", 'rb'))
+# mymodel = load_model('my_model_additional_data.h5')
+# myvectorizer = pickle.load(open("vectorizer_additional_data", 'rb'))
 
-
+mymodel = load_model('my_model_additional_sqli_benign_data.h5')
+myvectorizer = pickle.load(open("vectorizer_additional_sqli_benign_data", 'rb'))
 
 
 
@@ -78,12 +79,13 @@ def predict_sqli_attack(userData):
 
 
         if result>0.5:
-                message="ALERT :: This can be SQL injection"
-                w = tk.Message(window, text=message , width=400)
+                message="ALERT :: String : " + text.get('1.0', tk.END) + " can be SQL injection"
+
+                w = tk.Message(window, text=message , width=1500)
                 w.pack()
         elif result<=0.5:
-                message="It seems to be safe"
-                w = tk.Message(window, text=message,   width=400)
+                message= "String : " + text.get('1.0', tk.END)+ " seems to be safe"
+                w = tk.Message(window, text=message,   width=1500)
                 w.pack()
 
 
@@ -101,11 +103,11 @@ def predict_sqli_attack(userData):
 ####### start of gui
 
 
-
-
 def OnClick():
-        userData = text.get('1.0', tk.END)
-        predict_sqli_attack(userData)
+
+    userData = text.get('1.0', tk.END)
+    predict_sqli_attack(userData)
+    text.delete(1.0,tk.END)
 
 
 
