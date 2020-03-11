@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import Text, Tk
-
+from tkinter import messagebox
 
 
 
@@ -79,14 +79,15 @@ def predict_sqli_attack(userData):
 
 
         if result>0.5:
-                message="ALERT :: String : " + text.get('1.0', tk.END) + " can be SQL injection"
+                message="String : " + text.get('1.0', tk.END) + " can be SQL injection"
 
-                w = tk.Message(window, text=message , width=1500)
-                w.pack()
+                messagebox.showwarning("ALERT ", message)
+
+
         elif result<=0.5:
+
                 message= "String : " + text.get('1.0', tk.END)+ " seems to be safe"
-                w = tk.Message(window, text=message,   width=1500)
-                w.pack()
+                messagebox.showinfo("Info " , message)
 
 
 
@@ -103,12 +104,15 @@ def predict_sqli_attack(userData):
 ####### start of gui
 
 
-def OnClick():
+def onClick():
 
     userData = text.get('1.0', tk.END)
     predict_sqli_attack(userData)
     text.delete(1.0,tk.END)
 
+
+def onClose():
+	window.destroy()
 
 
 window = tk.Tk()
@@ -117,13 +121,15 @@ window.geometry("550x550")
 
 label = tk.Label(text="Enter String to classify")
 # entry=tk.Entry(fg="black", bg="silver", width=50)
-button=tk.Button(text="Check", command=OnClick)
+button=tk.Button(text="Check", command=onClick)
 text = Text(window, height=25, width=50)
+button2=tk.Button(text="Close", command=onClose)
 
 label.pack()
 # entry.pack()
 text.pack()
 button.pack()
+button2.pack()
 
 
 window.mainloop()
