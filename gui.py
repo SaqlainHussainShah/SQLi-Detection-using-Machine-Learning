@@ -14,8 +14,8 @@ import keras
 from keras.models import load_model
 import pickle
 
-mymodel = load_model('my_model.h5')
-myvectorizer = pickle.load(open("vectorizer", 'rb'))
+mymodel = load_model('my_model_additional_data.h5')
+myvectorizer = pickle.load(open("vectorizer_additional_data", 'rb'))
 
 
 
@@ -111,12 +111,12 @@ def OnClick():
 
 window = tk.Tk()
 
-window.geometry("400x400")
+window.geometry("550x550")
 
 label = tk.Label(text="Enter String to classify")
 # entry=tk.Entry(fg="black", bg="silver", width=50)
 button=tk.Button(text="Check", command=OnClick)
-text = Text(window, height=20, width=40)
+text = Text(window, height=25, width=50)
 
 label.pack()
 # entry.pack()
