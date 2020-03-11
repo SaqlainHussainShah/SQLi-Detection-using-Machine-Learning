@@ -85,7 +85,7 @@ def predict_sqli_attack(userData):
 
 
         elif result<=0.5:
-
+        	
                 message= "String : " + text.get('1.0', tk.END)+ " seems to be safe"
                 messagebox.showinfo("Info " , message)
 
@@ -104,15 +104,12 @@ def predict_sqli_attack(userData):
 ####### start of gui
 
 
-def onClick():
+def OnClick():
 
     userData = text.get('1.0', tk.END)
     predict_sqli_attack(userData)
     text.delete(1.0,tk.END)
 
-
-def onClose():
-	window.destroy()
 
 
 window = tk.Tk()
@@ -121,15 +118,13 @@ window.geometry("550x550")
 
 label = tk.Label(text="Enter String to classify")
 # entry=tk.Entry(fg="black", bg="silver", width=50)
-button=tk.Button(text="Check", command=onClick)
+button=tk.Button(text="Check", command=OnClick)
 text = Text(window, height=25, width=50)
-button2=tk.Button(text="Close", command=onClose)
 
 label.pack()
 # entry.pack()
 text.pack()
 button.pack()
-button2.pack()
 
 
 window.mainloop()
